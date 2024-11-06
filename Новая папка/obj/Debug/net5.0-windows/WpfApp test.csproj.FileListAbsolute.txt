@@ -1,0 +1,87 @@
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\bin\Debug\net5.0-windows\WpfApp test.exe
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\bin\Debug\net5.0-windows\WpfApp test.deps.json
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\bin\Debug\net5.0-windows\WpfApp test.runtimeconfig.json
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\bin\Debug\net5.0-windows\WpfApp test.runtimeconfig.dev.json
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\bin\Debug\net5.0-windows\WpfApp test.dll
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\bin\Debug\net5.0-windows\ref\WpfApp test.dll
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\bin\Debug\net5.0-windows\WpfApp test.pdb
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.csprojAssemblyReference.cache
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\AddEditPage.g.cs
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\HotelsPage.g.cs
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\MainWindow.g.cs
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\App.g.cs
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test_MarkupCompile.cache
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test_MarkupCompile.lref
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\AddEditPage.baml
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\HotelsPage.baml
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\MainWindow.baml
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.g.resources
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp_test.Properties.Resources.resources
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.csproj.GenerateResource.cache
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.GeneratedMSBuildEditorConfig.editorconfig
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.AssemblyInfoInputs.cache
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.AssemblyInfo.cs
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.csproj.CoreCompileInputs.cache
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.dll
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\ref\WpfApp test.dll
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.pdb
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\WpfApp test.genruntimeconfig.cache
+S:\ИСП 231 творобушки\Еременко и Княгин\vs\WpfApp test\obj\Debug\net5.0-windows\App.baml
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\bin\Debug\net5.0-windows\WpfApp test.exe
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\bin\Debug\net5.0-windows\WpfApp test.deps.json
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\bin\Debug\net5.0-windows\WpfApp test.runtimeconfig.json
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\bin\Debug\net5.0-windows\WpfApp test.runtimeconfig.dev.json
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\bin\Debug\net5.0-windows\WpfApp test.dll
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\bin\Debug\net5.0-windows\ref\WpfApp test.dll
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\bin\Debug\net5.0-windows\WpfApp test.pdb
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.csproj.AssemblyReference.cache
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\AddEditPage.g.cs
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\HotelsPage.g.cs
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\MainWindow.g.cs
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\App.g.cs
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test_MarkupCompile.cache
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test_MarkupCompile.lref
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\App.baml
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\AddEditPage.baml
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\HotelsPage.baml
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\MainWindow.baml
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.g.resources
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp_test.Properties.Resources.resources
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.csproj.GenerateResource.cache
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.GeneratedMSBuildEditorConfig.editorconfig
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.AssemblyInfoInputs.cache
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.AssemblyInfo.cs
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.csproj.CoreCompileInputs.cache
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.dll
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\ref\WpfApp test.dll
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.pdb
+S:\ИСП 231 творобушки\TRIFONOV I FEDOROV\3 парктика\obj\Debug\net5.0-windows\WpfApp test.genruntimeconfig.cache
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\bin\Debug\net5.0-windows\WpfApp test.exe
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\bin\Debug\net5.0-windows\WpfApp test.deps.json
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\bin\Debug\net5.0-windows\WpfApp test.runtimeconfig.json
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\bin\Debug\net5.0-windows\WpfApp test.runtimeconfig.dev.json
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\bin\Debug\net5.0-windows\WpfApp test.dll
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\bin\Debug\net5.0-windows\ref\WpfApp test.dll
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\bin\Debug\net5.0-windows\WpfApp test.pdb
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.csproj.AssemblyReference.cache
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\AddEditPage.g.cs
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\HotelsPage.g.cs
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\MainWindow.g.cs
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\App.g.cs
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test_MarkupCompile.cache
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test_MarkupCompile.lref
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\App.baml
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\AddEditPage.baml
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\HotelsPage.baml
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\MainWindow.baml
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.g.resources
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp_test.Properties.Resources.resources
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.csproj.GenerateResource.cache
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.GeneratedMSBuildEditorConfig.editorconfig
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.AssemblyInfoInputs.cache
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.AssemblyInfo.cs
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.csproj.CoreCompileInputs.cache
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.dll
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\ref\WpfApp test.dll
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.pdb
+S:\ИСП 231 творобушки\Бочаров Батиев\Новая папка\obj\Debug\net5.0-windows\WpfApp test.genruntimeconfig.cache
