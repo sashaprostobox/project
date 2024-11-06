@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatBochMix", "BatBochMix.csproj", "{BB49A244-E3AD-48B4-B6E3-3D102D02BE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB49A244-E3AD-48B4-B6E3-3D102D02BE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB49A244-E3AD-48B4-B6E3-3D102D02BE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB49A244-E3AD-48B4-B6E3-3D102D02BE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB49A244-E3AD-48B4-B6E3-3D102D02BE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54F984E-BD6E-48D0-8E03-8087328A1649}
+	EndGlobalSection
+EndGlobal
